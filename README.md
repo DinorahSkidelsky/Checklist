@@ -1,24 +1,7 @@
-# README
+# 📌 Checklist App ✅
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built with HTML, CSS and JS.
 
-Things you may want to cover:
+With this app users can create items for their personal checklist. Users can only see items they have created. Items can be marked complete, edited, and deleted.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+⌨️ whit ♥ by [Dinorah Skidelsky](https://github.com/DinorahSkidelsky)

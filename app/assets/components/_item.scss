@@ -1,0 +1,25 @@
+/* Item styles */
+
+.item {
+	border-bottom: 1px solid #e7e7e7;
+	padding-bottom: 1.5em;
+	.item-title {
+		font-family: 'Oswald', sans-serif;
+		margin-top: 0;
+	}
+	.item-desc {
+		font-size: 1em;
+	}
+	.time-ago {
+		color: darken(#e7e7e7, 50%);
+		font-size: 0.85em;
+		letter-spacing: 1.25;
+	}
+	.item-sub-title {
+		margin-bottom: 0;
+	}
+}
+
+.item:nth-child(n+1) {
+	padding-top: 1.5em;
+}

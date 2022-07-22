@@ -1,0 +1,27 @@
+/* Navbar and navigation styles */
+
+.navbar {
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+}
+
+.navbar-default {
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #fff;
+
+	.navbar-nav > li > a {
+		color: #222;
+	}
+
+	.navbar-link {
+		color: #222;
+	}
+
+	.navbar-brand {
+		color: #222;
+		letter-spacing: 1.25px;
+	}
+
+}
